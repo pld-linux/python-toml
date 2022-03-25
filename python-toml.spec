@@ -9,7 +9,7 @@ Summary:	Python Library for Tom's Obvious, Minimal Language
 Summary(pl.UTF-8):	Pythonowa biblioteka do formatu TOML (Tom's Obvious, Minimal Language)
 Name:		python-%{module}
 Version:	0.10.2
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/toml/
